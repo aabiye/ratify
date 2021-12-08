@@ -1,0 +1,26 @@
+{
+    "data" : [
+        {
+            "id": 1,
+            "blogCategory": "Live",
+            "blogTitle" : "Live rat street picture",
+            "slug": "rat-street-picture",
+            "postedOn": "Dec 06, 2021",
+            "author": "Michael Ainouz",
+            "blogImage": "rat-street-picture.jfif",
+            "blogText": " Rat Expert Predicts Rat Turf Wars As Some Parts Of NYC Produce Less Trash."
+        },
+        {
+            "id" : 2,
+            "blogCategory": "Statistics",
+            "blogTitle": "Rat Sightings in NYC (Statistics)",
+            "slug": "Rat-Sightings-in-NYC",
+            "postedOn": "Dec 03, 2021",
+            "author": "Michael Ainouz",
+            "blogImage": "rat-bar-chart.png",
+            "blogText": "A New York City Rat Invasion - 130,000 Reported Sightings Since 2010"
+        }
+      
+     
+    ]
+}
